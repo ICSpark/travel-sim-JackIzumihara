@@ -1,0 +1,14 @@
+ .portal{
+    width: 100px;
+   margin: 30px;
+   position: fixed;
+    }
+    body{
+        background-image: url("assets/portal-background.jpeg");
+    }
+    h1{
+        color: white;
+    }
+    h2{
+        color: turquoise;
+    }
