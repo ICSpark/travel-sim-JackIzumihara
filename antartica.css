@@ -1,0 +1,16 @@
+#container{
+    position: center;
+   }
+   .portal{
+       width: 100px;
+       margin: 20px;
+   }
+       body{
+           background-image: url("assets/antarctica.jpeg");
+       }
+       h1{
+           color: white;
+       }
+       h2{
+           color: turquoise;
+       }
